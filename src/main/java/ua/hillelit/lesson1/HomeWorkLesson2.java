@@ -1,7 +1,5 @@
 package ua.hillelit.lesson1;
 
-import java.util.Scanner;
-
 public class HomeWorkLesson2 {
     public static void main(String[] args) {
 
