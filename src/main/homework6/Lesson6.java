@@ -6,7 +6,7 @@ public class Lesson6 {
 
         String intrt = "ggggg asdf";
 
-        intrt.substring(6)
+        intrt.substring(6);
 
     }
 }
