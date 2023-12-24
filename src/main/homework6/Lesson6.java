@@ -4,9 +4,5 @@ public class Lesson6 {
 //        DRY - Don't Repeat Yourself (Не повторяйся)
 //        AGNI - You are not gone need it (Вам это не понадобиться)
 
-        String intrt = "ggggg asdf";
-
-        intrt.substring(6);
-
     }
 }
